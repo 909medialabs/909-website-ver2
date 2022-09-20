@@ -1,0 +1,36 @@
+footer{
+    position: relative;
+    background-color: #151515;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    padding: 1em 2em;
+    margin: 0;
+    line-height: 100%;
+    z-index: 100;
+    box-shadow: 0px 31em 0px 27em #151515;
+}
+
+footer p, a{
+    font-family: rubik;
+    font-weight: 500;
+    font-size: 0.7em;
+    color: #f3f3f3;
+}
+
+footer a {
+    color: #f3f3f3;
+}
+
+.footer-contact {
+    display: flex;
+    flex-flow: column;
+    align-items: flex-end;
+    /* margin-right: 7%; */
+}
+
+.socials{
+    display: flex;
+    gap: 0.8em;
+    padding-bottom: 0.3em;
+}

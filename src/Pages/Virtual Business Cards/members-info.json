@@ -1,0 +1,42 @@
+[
+    {
+        "id": "/vbc/paulina-lara",
+        "name": "Paulina Lara",
+        "country": "assets/icons/icon-MX.png",
+        "picture": "assets/pictures/pic-lara.png",
+        "role": "Senior Designer",
+        "bio": "Went from a computer science intern to the head of a $2 billion company that's challenging Adobe for the love of designers across Silicon Valley. Likes on twitter = bookmarking, not endorsement."
+    },
+    {
+        "id": "/vbc/mauricio-higuera",
+        "name": "Mauricio Higuera",
+        "country": "assets/icons/icon-MX.png",
+        "picture": "assets/pictures/pic-mauricio.png",
+        "role": "Content Specialist",
+        "bio": "Went from a computer science intern to the head of a $2 billion company that's challenging Adobe for the love of designers across Silicon Valley. Likes on twitter = bookmarking, not endorsement."
+    },
+    {
+        "id": "/vbc/maryely-lira",
+        "name": "Maryely H. Lira",
+        "country": "assets/icons/icon-MX.png",
+        "picture": "assets/pictures/pic-maryely.png",
+        "role": "Logistics & Business Director",
+        "bio": "Went from a computer science intern to the head of a $2 billion company that's challenging Adobe for the love of designers across Silicon Valley. Likes on twitter = bookmarking, not endorsement."
+    },
+    {
+        "id": "/vbc/miguel-rodriguez",
+        "name": "Miguel Rodríguez",
+        "country": "assets/icons/icon-MX.png",
+        "picture": "assets/pictures/pic-miguel.png",
+        "role": "Content Specialist",
+        "bio": "Went from a computer science intern to the head of a $2 billion company that's challenging Adobe for the love of designers across Silicon Valley. Likes on twitter = bookmarking, not endorsement."
+    },
+    {
+        "id": "/vbc/mario-monroy",
+        "name": "Mario Monroy",
+        "country": "assets/icons/icon-MX.png",
+        "picture": "assets/pictures/pic-mario.png",
+        "role": "Senior Designer",
+        "bio": "Went from a computer science intern to the head of a $2 billion company that's challenging Adobe for the love of designers across Silicon Valley. Likes on twitter = bookmarking, not endorsement."
+    }
+]
